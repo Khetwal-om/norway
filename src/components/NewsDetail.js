@@ -4,7 +4,6 @@ import './NewsDetail.css'
 import FavoriteIcon from '@material-ui/icons/Favorite';
 
 
-import TvIcon from '@material-ui/icons/Tv';
 
 // function NewsDetail({title,author,content,description,publishedAt,url,urlToImage}) {
 const base_url="https://image.tmdb.org/t/p/original/";

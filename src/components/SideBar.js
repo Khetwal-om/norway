@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 import './SideBar.css'
 import AllInclusiveIcon from '@material-ui/icons/AllInclusive';
 import BubbleChartIcon from '@material-ui/icons/BubbleChart';
-import BrushIcon from '@material-ui/icons/Brush';
+// import BrushIcon from '@material-ui/icons/Brush';
 import ChangeHistoryIcon from '@material-ui/icons/ChangeHistory';
 import { connect } from 'react-redux';
 import { Button } from '@material-ui/core';
