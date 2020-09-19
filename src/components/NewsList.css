@@ -1,0 +1,19 @@
+.newslist {
+    
+    flex: .5;
+    border-right: 1px solid var(--twitter-background);
+    overflow-y: scroll;
+    /* background: ; */
+}
+
+
+
+.newslist::-webkit-scrollbar {
+    display: none;
+  }
+
+  .newslist {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
